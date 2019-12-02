@@ -5,20 +5,25 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:layout_margin="20dp"
+    
+
+    >
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-
+        android:layout_gravity="center"
         android:text="LogIn"
+        android:gravity="top"
         android:textSize="25dp"
         android:textStyle="bold" />
 
     <EditText
         android:id="@+id/emailField"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
 
         android:ems="10"
@@ -27,8 +32,8 @@
 
     <EditText
         android:id="@+id/passField"
-        android:layout_width="wrap_content"
-        android:layout_height="54dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
 
         android:ems="10"
         android:hint="Password"
@@ -36,24 +41,29 @@
         />
 
 
-    <Button
-        android:id="@+id/registrationButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-
-        android:text="Sign Up"
-        android:onClick="register"
- />
 
 
 
     <Button
         android:id="@+id/button"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
 
         android:text="Login"
     />
+
+
+
+    <Button
+        android:id="@+id/registrationButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Sign Up"
+        android:onClick="register"
+        />
+
+
 
 
 

@@ -82,12 +82,12 @@ public class MainActivity extends AppCompatActivity {
 
         }
     }
-    @Override
+ /*   @Override
     protected void onStart() {
         super.onStart();
 
         mAuth.addAuthStateListener(mauthStateListner);
-    }
+    }*/
 
     public void register(View view) {
 
