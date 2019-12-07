@@ -5,6 +5,6 @@ public class Constants {
 
     public static final String BROADCAST_DETECTED_ACTIVITY = "activity_intent";
 
-    static final long DETECTION_INTERVAL_IN_MILLISECONDS = 20;
+    public static final long DETECTION_INTERVAL_IN_MILLISECONDS = 20;
 
 }
