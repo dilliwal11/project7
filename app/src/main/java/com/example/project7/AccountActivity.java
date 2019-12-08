@@ -236,37 +236,6 @@ public class AccountActivity extends AppCompatActivity implements SensorEventLis
 
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     public void logout(View view) {
         FirebaseAuth.getInstance().signOut();
 

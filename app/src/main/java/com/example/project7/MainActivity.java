@@ -60,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
 
     void signIn(){
 
+
         // Firebase for registration
         String email = emailField.getText().toString();
         final String pass = passField.getText().toString();
@@ -82,12 +83,12 @@ public class MainActivity extends AppCompatActivity {
 
         }
     }
- /*   @Override
+   @Override
     protected void onStart() {
         super.onStart();
 
         mAuth.addAuthStateListener(mauthStateListner);
-    }*/
+    }
 
     public void register(View view) {
 
