@@ -1,0 +1,41 @@
+commit 85547fa4973e0e3e5f93b4c12f8d39450fe7984f
+Author: Akash <dilliwalakash@gmail.com>
+Date:   Sat Dec 7 19:39:15 2019 -0500
+
+    final commit
+
+commit 1e6926bf6675a299485cebe482d407b099123450
+Author: Akash <dilliwalakash@gmail.com>
+Date:   Fri Dec 6 23:40:26 2019 -0500
+
+    Statistic
+
+commit c061a0ce3c469cda723f33eee1006e725c2e00d7
+Author: Akash <dilliwalakash@gmail.com>
+Date:   Thu Dec 5 22:05:07 2019 -0500
+
+    Activity recognition api
+
+commit e9e81839c1381d46c1277758434fc31051b6c2e6
+Author: Akash <dilliwalakash@gmail.com>
+Date:   Tue Dec 3 15:56:55 2019 -0500
+
+    Notification alarm
+
+commit fe5603d06540d55cb6e963cd5f42374592a1d5be
+Author: Akash <dilliwalakash@gmail.com>
+Date:   Mon Dec 2 12:59:45 2019 -0500
+
+    Login Layout
+
+commit c1358e3343bef03b28c4cac5ac320b0d1e336043
+Author: Akash <dilliwalakash@gmail.com>
+Date:   Sun Dec 1 11:37:03 2019 -0500
+
+    Resgistration Firebase
+
+commit 910b7fb4ca209af8bd56a95379d4c9981459c8b1
+Author: Akash <dilliwalakash@gmail.com>
+Date:   Tue Nov 26 12:02:26 2019 -0500
+
+    first commit
